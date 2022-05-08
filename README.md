@@ -20,7 +20,7 @@ Let’s take the recursive formula
 
 ## Demo
 <p align="center">
-  <img src="fractal.png" width="1024" height="1024" alt="fractal" /></a>
+  <img src="fractal.png" width="1024"  alt="fractal" /></a>
 </p>
 
 
