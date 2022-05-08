@@ -5,6 +5,8 @@ The term Mandelbrot set is used to refer both to a general class of fractal sets
 
 "The" Mandelbrot set is the set obtained from the quadratic recurrence equation
 
+Let’s take the recursive formula 
+
 <p align="center">
   <img src="formula.svg" width="100px" alt="mandelbrot" />
 </p>
@@ -15,7 +17,7 @@ https://en.wikipedia.org/wiki/Mandelbrot_set
 
 You start with a specific number, and then you apply the same recursive formula, again and again, to get the next number in the sequence.
 
-Let’s take the recursive formula 
+
 
 
 ## Demo
