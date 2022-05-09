@@ -10,7 +10,7 @@ import (
 )
 
 func main(){
-	//colorPalette    string
+	//frame
 	const (
 		xmin, ymin, xmax, ymax = -2, -2, 2, 2
 		//image size
