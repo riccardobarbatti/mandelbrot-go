@@ -28,7 +28,7 @@ You start with a specific number, and then you apply the same recursive formula,
 
 
 
-## Deployment
+## Build
 
 To generate fractal image 
 
