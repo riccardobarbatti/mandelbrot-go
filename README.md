@@ -1,9 +1,8 @@
 
 # Mandelbrot
 
-The term Mandelbrot set is used to refer both to a general class of fractal sets and to a particular instance of such a set. In general, a Mandelbrot set marks the set of points in the complex plane such that the corresponding Julia set is connected and not computable.
-
-"The" Mandelbrot set is the set obtained from the quadratic recurrence equation
+The term Mandelbrot set is used to refer both to a general class of fractal sets and to a particular instance of such a set.
+The Mandelbrot set is the set obtained from the quadratic recurrence equation
 
 Let’s take the recursive formula 
 
